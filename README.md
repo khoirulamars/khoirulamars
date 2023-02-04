@@ -1,4 +1,8 @@
-<a href="#"><img width="100%" height="auto" src="character.png" height="175px"/></a>
+<p align="center">
+  <a href="#">
+    <img width="30%" height="auto" src="character.png" height="175px"/>
+  </a>
+</p>
 
 <h1 align="center">H√-1 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Khoirul Amar Sidik</h1>
 <h3 align="center">Analysis and Data Science Enthusiast.</h3>
