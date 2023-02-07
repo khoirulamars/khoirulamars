@@ -17,7 +17,7 @@
 
 ## 🛠️ **Languages and Tools:**
 
-<img src="https://skillicons.dev/icons?i=py,r,latex,octave,blender,vscode,github" />
+<img src="https://skillicons.dev/icons?i=py,r,latex,blender,vscode,github" />
 
 ## ☎️ **Connect with me:**
 [![Instagram](https://img.shields.io/badge/khoirulamarr-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/khoirulamarr/)
