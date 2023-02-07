@@ -11,7 +11,7 @@
 
 - 🧑‍🚀 My name is Khoirul Amar Sidik.
 - 🎓 I am a Data Science student at Sumatera Institute of Technology.
-- 👨‍💻 Strong foundation in mathematics, statistics, and programming with Python.
+- 👨‍💻 Foundation in mathematics, statistics, and programming with Python.
 - 🔢 Founder **[jagomath.id](https://www.instagram.com/jagomath.id/)**.
 - ⌨ Contribute to **[projek sains data](https://projeksainsdata.com/)**.
 
