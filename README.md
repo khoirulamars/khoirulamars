@@ -59,7 +59,3 @@
   </p>
 
 <br />
-<div style="display: flex;" align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=khoirulamars&show_icons=true&theme=tokyonight&locale=en" alt="khoirulamars" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khoirulamars&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="khoirulamars"  height="150" />
-</div>
