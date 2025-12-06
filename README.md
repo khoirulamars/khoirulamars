@@ -4,7 +4,6 @@
 📫 <a href="mailto:khoirulamarr@gmail.com"><strong>khoirulamarr@gmail.com</strong></a>
 </p>
 
-## 👨‍💻 About Me
 Data Professional with a strong academic foundation (Bachelor of Data Science, GPA 3.91) and hands on experience in Excel/SQL/Python analytics, database management, machine learning, dashboard  development (BI tools), data pipeline optimization, and applying these skills to extract actionable insights, build predictive models, and enhance data workflows.
 
 ---
