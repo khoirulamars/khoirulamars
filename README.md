@@ -8,8 +8,4 @@
 Data Professional with a strong academic foundation (Bachelor of Data Science, GPA 3.91) and hands on experience in Excel/SQL/Python analytics, database management, machine learning, dashboard  development (BI tools), data pipeline optimization, and applying these skills to extract actionable insights, build predictive models, and enhance data workflows.
 
 ---
-
-<p align="center">
-<a href="https://www.linkedin.com/in/khoirulamarsidik/" target="_blank">LinkedIn</a> • 
-<a href="https://medium.com/@khoirulamarr" target="_blank">Medium</a>
 </p>
